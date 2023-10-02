@@ -6,7 +6,7 @@
 
 # WinForms Lookup - Display custom tooltips
 
-This example demonstrates how to display custom tooltips for dropdown items in the WinForms LookUpEdit control.
+This example demonstrates how to display custom tooltips for drop-down items in the WinForms LookUpEdit control.
 
 ```csharp
 void lookUpEditHints1_BeforeShowingTooltip(object sender, EventArgs e) {
