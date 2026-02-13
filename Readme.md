@@ -29,7 +29,7 @@ void lookUpEditHints1_BeforeShowingTooltip(object sender, EventArgs e) {
 
 * [Hints and Tooltips](https://docs.devexpress.com/WindowsForms/1818/controls-and-libraries/pivot-grid/miscellaneous/hints-and-tooltips)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-lookup-show-custom-tooltips&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-lookup-show-custom-tooltips&~~~was_helpful=no)
 
